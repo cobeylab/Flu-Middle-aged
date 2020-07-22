@@ -1,0 +1,44 @@
+SEASON END YEAR,TOTAL SPECIMENS,TOTAL A,FRAC A,TOTAL B,FRAC B,SOURCE
+1977,17600,215,0.012215909,633,0.035965909,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1978,18727,1928,0.102952956,5,0.000266994,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1979,13275,1141,0.085951036,21,0.001581921,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1980,15195,37,0.002435012,1298,0.085422836,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1981,16128,1440,0.089285714,1,6.20E-05,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1982,14804,143,0.009659551,461,0.031140232,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1983,16929,1428,0.084352295,160,0.009451238,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1984,16111,1138,0.07063497,937,0.058159022,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1985,15355,1979,0.1288831,53,0.003451644,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1986,20234,556,0.027478502,1789,0.088415538,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1987,22056,2211,0.100244831,11,0.000498731,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1988,26258,1943,0.073996496,354,0.013481606,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1989,29357,2593,0.088326464,2530,0.086180468,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1990,29956,3388,0.113099212,13,0.00043397,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1991,32420,450,0.013880321,2732,0.08426897,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1992,38557,5909,0.153253625,47,0.001218975,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1993,36233,1258,0.034719731,3081,0.085032981,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1994,35597,4215,0.118408855,35,0.000983229,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1995,38705,2881,0.074434828,1005,0.025965638,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1996,37612,4007,0.106535148,716,0.019036478,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1997,39183,5047,0.12880586,1449,0.036980323,Thompson et al. JAMA. 2003;289(2):179-186. doi:10.1001/jama.289.2.179
+1998,99072,12827,0.129471495,102,0.001029554,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+1999,98938,10978,0.110958378,3272,0.033071216,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2000,110723,14592,0.131788337,103,0.000930249,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2001,102546,5602,0.054629142,4909,0.047871199,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2002,121528,14181,0.116689158,2371,0.019509907,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2003,96871,5757,0.059429551,4084,0.04215916,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2004,152262,24800,0.162877146,304,0.001996559,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2005,186590,18375,0.098477946,6195,0.033201136,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2006,179772,17000,0.094564226,4410,0.024531073,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2007,206912,19727,0.095340048,5338,0.025798407,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2008,260974,29953,0.114773886,12208,0.046778606,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2009,191070,18024,0.09433192,9322,0.048788402,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2009.5,535056,145805,0.272504186,2135,0.003990237,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2010,218123,9440,0.043278334,283,0.001297433,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2011,296346,41355,0.139549716,14625,0.049351096,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2012,234456,22069,0.094128536,4943,0.021082847,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2013,396075,56537,0.142743167,23645,0.059698289,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2014,394048,50210,0.127421025,8779,0.022279012,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2015,820376,107125,0.130580368,21790,0.026560992,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
+2016,814021,47364,0.058185231,23644,0.029045934,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html CLINICAL SPECIMENS
+2017,1075007,93259,0.086751993,39678,0.036909527,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html CLINICAL SPECIMENS
+2018,1191471,150744,0.126519235,72222,0.060615827,https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html CLINICAL SPECIMENS
